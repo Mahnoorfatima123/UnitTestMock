@@ -1,10 +1,10 @@
-UnitTests DB with Xunit and Mocking
+**UnitTests DB with Xunit and Mocking
 
-Overview
+**Overview
 
 This repository contains unit tests for database interactions using Xunit and Mocking techniques. The tests ensure the correctness of database operations without requiring an actual database connection.
 
-Technologies Used
+**Technologies Used
 
 Xunit – A widely used unit testing framework for .NET
 
@@ -20,11 +20,12 @@ Prerequisites
 
 Xunit & Moq NuGet packages
 
-Installation
+**Installation
 
 Clone the repository:
+git clone <url>
 
-Install required dependencies:
+**Install required dependencies:
 
 Project Structure
 
